@@ -1,0 +1,14 @@
+#banner{
+    background-image: url('../../assets/assets/bg-shadow.png');
+    background-size: cover;
+    border-radius:24px ;
+}
+
+button{
+    background-color: greenyellow;
+    border-radius: 16px;
+    color: black;
+    padding: 11px;
+    font-size: small;
+    font-weight: bold;
+}
