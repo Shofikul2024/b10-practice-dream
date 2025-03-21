@@ -9,7 +9,7 @@ const Banner = ({ handleAddCoins }) => {
     >
       <img className="mx-auto mb-5" src={blogo} alt="" />
       <h1 className="font-bold text-3xl mb-5">
-        Assemble Your Ultimate Dream 11 Cricket Team
+        Assemble Your Ultimate Dream 11 Cricket Team!!!!
       </h1>
       <p className="text-base font-medium mb-5">
         Beyond Boundaries Beyond Limits
